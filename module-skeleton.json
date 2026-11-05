@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-multi-entity-vue-inertia",
+  "capabilityKey": "liberusoftware/module-accounting-multi-entity",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-accounting-multi-entity-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/accounting/nextjs/multi-entity.md",
+  "presentationPlan": "projects/accounting/vue/multi-entity.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
